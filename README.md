@@ -8,7 +8,7 @@ Brings your own music library and external catalogs together in the music apps y
 
 A site for exploring Buddhist concepts through connected pages, reading trails and interactive visualizations.
 
-[![Dhamma Thread preview showing an interactive visual explanation of the five aggregates](assets/dhamma-thread.gif)](https://dhamma-thread.jasshl.workers.dev/)
+https://github.com/user-attachments/assets/b25447cf-e014-425d-b9ea-201c871ac71f
 
 ## ComfyUI tools and workflows
 
