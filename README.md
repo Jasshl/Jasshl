@@ -8,7 +8,7 @@ Brings your own music library and external catalogs together in the music apps y
 
 A site for exploring Buddhist concepts through connected pages, reading trails and interactive visualizations.
 
-https://github.com/user-attachments/assets/b25447cf-e014-425d-b9ea-201c871ac71f
+[![Dew droplets disappearing at sunrise on Dhamma Thread](assets/dhamma-thread-dew.gif)](https://dhamma-thread.jasshl.workers.dev/c/anicca)
 
 ## ComfyUI tools and workflows
 
